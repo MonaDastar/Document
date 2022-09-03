@@ -136,4 +136,3 @@ to push:
 ```sh 
 git push origin main
 ```
-to pull
